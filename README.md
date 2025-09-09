@@ -18,3 +18,9 @@ SolidWorks
 Gimnaziul Valentin Slobozenco
 Colegiul UTM
 
+### Competențe și aptitudini
+Limbi străine:
+Limba Romana
+Limba Engleza
+Limba Rusa
+Limba Italiana

@@ -24,3 +24,7 @@ Limba Romana
 Limba Engleza
 Limba Rusa
 Limba Italiana
+
+## Scopuri personale:
+Să finalizez colegiul cu rezultate bune.
+Să urmez și să obțin o diplomă universitară într-un domeniu care mă pasionează.

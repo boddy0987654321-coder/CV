@@ -14,3 +14,7 @@ Inventor Autodesk
 Inventor Autocad 
 SolidWorks
 
+### Educație și formare
+Gimnaziul Valentin Slobozenco
+Colegiul UTM
+
